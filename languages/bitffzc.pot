@@ -1,0 +1,139 @@
+# Copyright (C) 2023 Forms Integrations
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Integration of Zoho CRM and Fluent Form 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bitffzc\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-12-06T15:27:51+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: bitffzc\n"
+
+#. Plugin Name of the plugin
+msgid "Integration of Zoho CRM and Fluent Form"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://formsintegrations.com/fluent-forms-integration-with-zoho-crm"
+msgstr ""
+
+#. Description of the plugin
+msgid "Sends Fluent Form entries to Zoho CRM"
+msgstr ""
+
+#. Author of the plugin
+msgid "Forms Integrations"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://formsintegrations.com"
+msgstr ""
+
+#: bitffzc.php:37
+msgid "bitffzc requires PHP version 5.6."
+msgstr ""
+
+#: bitffzc.php:38
+msgid "Error Activating"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:39
+msgid "Toggle status can't be empty"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:42
+msgid "Erase in delete toggled"
+msgstr ""
+
+#: includes/Admin/Admin_Bar.php:35
+msgid "Zoho CRM integration for Fluent Form"
+msgstr ""
+
+#: includes/Admin/Admin_Bar.php:36
+msgid "Forms"
+msgstr ""
+
+#: includes/Admin/FF/Handler.php:33
+#: includes/Admin/FF/Handler.php:39
+msgid "Form doesn't exists"
+msgstr ""
+
+#: includes/Admin/FF/Handler.php:64
+msgid "Form doesn't exists any field"
+msgstr ""
+
+#: includes/Admin/Log/Handler.php:96
+msgid "Log deleted successfully"
+msgstr ""
+
+#: includes/Core/Database/Model.php:39
+msgid "Form data is empty"
+msgstr ""
+
+#: includes/Core/Database/Model.php:161
+#: includes/Core/Database/Model.php:192
+msgid "Nothing to update"
+msgstr ""
+
+#: includes/Core/Database/Model.php:243
+msgid "Nothing to duplicate"
+msgstr ""
+
+#: includes/Core/Database/Model.php:286
+#: includes/Core/Database/Model.php:309
+#: includes/Core/Database/Model.php:329
+#: includes/Core/Database/Model.php:340
+msgid "At least 1 condition needed"
+msgstr ""
+
+#: includes/Core/Util/Route.php:50
+#: includes/Integration/ZohoCRM/ZohoCRMHandler.php:83
+#: includes/Integration/ZohoCRM/ZohoCRMHandler.php:136
+#: includes/Integration/ZohoCRM/ZohoCRMHandler.php:255
+msgid "Token expired"
+msgstr ""
+
+#: includes/Integration/Integrations.php:91
+#: includes/Integration/Integrations.php:119
+#: includes/Integration/Integrations.php:145
+#: includes/Integration/Integrations.php:165
+msgid "%s cann't be empty"
+msgstr ""
+
+#: includes/Integration/Integrations.php:103
+msgid "Integration saved successfully"
+msgstr ""
+
+#: includes/Integration/Integrations.php:132
+msgid "Integration updated successfully"
+msgstr ""
+
+#: includes/Integration/Integrations.php:152
+msgid "Integration deleted successfully"
+msgstr ""
+
+#: includes/Integration/Integrations.php:172
+msgid "Integration status changed successfully"
+msgstr ""
+
+#: includes/Integration/ZohoCRM/RecordApiHelper.php:73
+msgid "%s is required for zoho crm, %s module"
+msgstr ""
+
+#: includes/Integration/ZohoCRM/RecordApiHelper.php:83
+msgid "zoho crm field %s's maximum length is %s, Given %s"
+msgstr ""
+
+#: includes/Integration/ZohoCRM/ZohoCRMHandler.php:358
+#: includes/Integration/ZohoCRM/ZohoCRMHandler.php:363
+msgid "module, layout, fields are required for zoho crm api"
+msgstr ""
+
+#: includes/Plugin.php:78
+msgid "Docs"
+msgstr ""
